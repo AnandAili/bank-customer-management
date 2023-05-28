@@ -20,9 +20,35 @@ The following are the APIs developed in this project:
 
 ![image](https://github.com/AnandAili/bank-customer-management/assets/11077456/45104478-d6ce-41d0-ac2b-ef3c525b5be0)
 
+### Data Model
+Customer - Class - Table
+- Identity - Id
+- First Name - firstName
+- Middle Name - middleName
+- Last Name - lastName
+- Contact Number - contactNumber
+- Email - emailid
+- Postal Address:
+  - House Number
+  - Street Name
+  - LandMark
+  - Taluk
+  - District
+  - State
+  - Nationality
+  - Pin Code
+
+
 ## Assumptions
 
 ## Usage guidance
 
+
+Action Items / To Do:
+- [ ] Github account
+- [ ] Create a repository called bank-customer-managmenet
+- [ ] Update Readme file about project
+- [ ] Design 
+- [ ] Create Spring Boot project with maven dependencies
 
 
