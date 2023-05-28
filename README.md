@@ -50,5 +50,7 @@ Action Items / To Do:
 - [ ] Update Readme file about project
 - [ ] Design 
 - [ ] Create Spring Boot project with maven dependencies
+- [ ] Create Customer, Customer Repositry 
+- [ ] Controller
 
 
